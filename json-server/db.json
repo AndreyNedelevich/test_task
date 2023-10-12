@@ -1,0 +1,218 @@
+{
+  "tasks": [
+    {
+      "id": "2",
+      "userId": 3,
+      "title": "IT",
+      "text": "Изучить паттерны проектирования",
+      "completed": "false"
+    },
+    {
+      "id": "3",
+      "userId": "2",
+      "title": "IT",
+      "text": "ReactJS Hooks (useState, useReducer, useEffect и т.д.)",
+      "completed": "true"
+    },
+    {
+      "id": "4",
+      "userId": "2",
+      "title": "IT",
+      "text": "Redux (redux-observable, redux-saga)",
+      "completed": "false"
+    },
+    {
+      "userId": "2",
+      "title": "IT5",
+      "text": "qweqwe",
+      "completed": "true",
+      "id": "7"
+    },
+    {
+      "userId": "3",
+      "title": "IT",
+      "text": "qweqwe",
+      "completed": "true",
+      "id": "8"
+    },
+    {
+      "userId": "2",
+      "title": "IT",
+      "text": "123",
+      "completed": "false",
+      "id": "9"
+    },
+    {
+      "userId": "1",
+      "title": "IT",
+      "text": "Купить 1984!",
+      "completed": "false",
+      "id": "10"
+    },
+    {
+      "userId": "1",
+      "title": "JS, TS, JSX",
+      "text": "Сделали сайдбар",
+      "completed": "true",
+      "id": "15"
+    },
+    {
+      "userId": "2",
+      "title": "ITJS",
+      "text": "Сделали список задач",
+      "completed": "true",
+      "id": "16"
+    },
+    {
+      "userId": "3",
+      "title": "IT",
+      "text": "Сделали удаление и редактирование задач и списков",
+      "completed": "true",
+      "id": "17"
+    },
+    {
+      "userId": "4",
+      "title": "IT",
+      "text": "tttt",
+      "completed": "false",
+      "id": 18
+    },
+    {
+      "title": "My TASK",
+      "text": "efrzdgtfxh",
+      "id": "1697065311604",
+      "completed": "true",
+      "userId": "1"
+    },
+    {
+      "title": "Task",
+      "text": "Some Task",
+      "id": "1697071222016",
+      "completed": "true",
+      "userId": "1"
+    },
+    {
+      "title": "efsrg",
+      "text": "qwerfgtf",
+      "id": "1697077355363",
+      "completed": "false",
+      "userId": "2"
+    },
+    {
+      "title": "gf",
+      "text": "",
+      "id": "1697078422495",
+      "completed": "false",
+      "userId": "2"
+    },
+    {
+      "title": "jgf",
+      "text": "25",
+      "id": "1697082115851",
+      "completed": "false",
+      "userId": "1"
+    },
+    {
+      "title": "Task",
+      "text": "My Task",
+      "id": "1697087215384",
+      "completed": "true",
+      "userId": "1"
+    },
+    {
+      "title": "Task",
+      "text": "Main Task",
+      "id": "1697087718287",
+      "completed": "false",
+      "userId": "1"
+    },
+    {
+      "title": "Task",
+      "text": "Main Task",
+      "id": "1697087729864",
+      "completed": "false",
+      "userId": "1"
+    },
+    {
+      "title": "Tasks",
+      "text": "",
+      "id": "1697088230153",
+      "completed": "true",
+      "userId": "1"
+    },
+    {
+      "title": "dfg",
+      "text": "jjjjjj",
+      "id": "1697088560294",
+      "completed": "false",
+      "userId": "1"
+    },
+    {
+      "title": "mY NEW TASK",
+      "text": "",
+      "id": "1697088920504",
+      "completed": "false",
+      "userId": "1"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "user1",
+      "password": "123"
+    },
+    {
+      "id": "2",
+      "username": "user2",
+      "password": "123"
+    },
+    {
+      "id": "3",
+      "username": "manager",
+      "password": "123"
+    },
+    {
+      "id": "4",
+      "username": "testuser",
+      "password": "123"
+    }
+  ],
+  "profile": [
+    {
+      "id": "1",
+      "first": "Maksim Nedelevich",
+      "lastname": "Ostapenko",
+      "age": 37,
+      "country": "Ukraine",
+      "city": "Kiev",
+      "username": "admin213"
+    },
+    {
+      "id": "2",
+      "first": "Andrey",
+      "lastname": "Nedelevich",
+      "age": 45,
+      "country": "Ukraine",
+      "city": "Kharkiv",
+      "username": "user"
+    },
+    {
+      "id": "3",
+      "first": "ulbi tv",
+      "lastname": "asf",
+      "age": 465,
+      "country": "Ukraine",
+      "city": "Kharkiv",
+      "username": "user"
+    },
+    {
+      "id": "4",
+      "first": "test",
+      "lastname": "user",
+      "age": 35,
+      "country": "Ukraine",
+      "city": "Kherson",
+      "username": "testuser"
+    }
+  ]
+}

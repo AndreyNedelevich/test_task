@@ -1,0 +1,21 @@
+.Navbar {
+    padding: 16px;
+    background-color: var(--light-bg-redesigned);
+    border-radius:18px;
+}
+
+.links,
+.actions {
+    margin-left: auto;
+    height: 50px;
+}
+
+.mainLink {
+    margin-right: 15px;
+}
+
+.appName {
+    width: var(--sidebar-width);
+    margin-left: 15px;
+}
+
